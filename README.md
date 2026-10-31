@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammet İzzet Ekinci</h1>
-<h3 align="center">Greetings, I am Muhammet İzzet Ekinci. I live in Turkey and I am 22 years old. I mainly work in the field of front-end and continue to improve myself. Learning is good..</h3>
+<h3 align="center">Hi, I’m Muhammet İzzet, a front-end developer from Turkey.
+
+I help cafes, restaurants and small businesses get a professional online presence with clean, responsive websites that load fast and look great on any device.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammeti1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammeti1" /></p>  
 <p dir="auto"><animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/muhammeti1/muhammeti1/assets/117680221/d312262f-3abb-4c0a-a385-2f07a9048ecd" data-target="animated-image.originalLink"><img style=" width: 420px; height:300px;" align="right" alt="Coding" src="https://github.com/muhammeti1/muhammeti1/assets/117680221/d312262f-3abb-4c0a-a385-2f07a9048ecd" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
